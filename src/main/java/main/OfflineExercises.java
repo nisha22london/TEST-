@@ -10,10 +10,10 @@ public class OfflineExercises {
 	// multChar("AAbb") → "AAAAAAbbbbbb"
 	// multChar("Hi-There") → "HHHiii---TTThhheeerrreee"
 
-	public String multChar(String input) {
-		return "TThhheee,AAAAAAbbbbbb,HHHiii---TTThhheeerrreee";
-		return.out.print"There"
-	}
+//	public String multChar(String input) {
+	//	return "TThhheee,AAAAAAbbbbbb,HHHiii---TTThhheeerrreee";
+	//	return.out.print"There"
+	//}
 	
 	// Return the string (backwards) that is between the first and last appearance
 	// of "bert"
@@ -26,9 +26,9 @@ public class OfflineExercises {
 	// getBert("xxbertyy") → ""
 	// getBert("xxbeRTyy") → ""
 
-	public String getBert(String input) {
-		return "";
-	}
+	//public String getBert(String input) {
+	//	return "";
+//	}
 
 	// Given three ints, a b c, one of them is small, one is medium and one is
 	// large. Return true if the three values are evenly spaced, so the
@@ -41,13 +41,12 @@ public class OfflineExercises {
 	// evenlySpaced(4, 6, 3) → false
 	// evenlySpaced(4, 60, 9) → false
 
-	public boolean evenlySpaced(int a, int b, int c) {
-		for(int +0;;<a,b,c.length(). ++); {
-			String letter = a,b,c (a,+b+c);
-			if () a<z{
-		}
-		return false;
-	}
+//	public boolean evenlySpaced(int a, int b, int c) {
+	//	for(int +0;;<a,b,c.length(). ++); {
+	//		String letter = a,b,c (a,+b+c);
+	//		if () a<z{
+	//	}
+	//	return false
 
 	// Given a string and an int n, return a string that removes n letters from the 'middle' of the string.
 	// The string length will be at least n, and be odd when the length of the input is odd.
@@ -56,21 +55,21 @@ public class OfflineExercises {
 	// nMid("Chocolate", 3) → "Choate"
 	// nMid("Chocolate", 1) → "Choclate"
 
-	private void length() {
+//	private void length() {
 		// TODO Auto-generated method stub
 		
-	}
+///	}
 
-	public String nMid(String input, int a) {
-		return "choclate";
-		while ("choate");
-		
-		return false; 
-		int inDev =0;
-		list = "chcolate";
-		String Mid (String input,int a)
-		while ("flase");
-	
+///	public String nMid(String input, int a) {
+//		return "choclate";
+	//	while ("choate");
+//		
+//		return false; 
+//		int inDev =0;
+//		list = "chcolate";
+	//	String Mid (String input,int a)
+	//	while ("flase");
+	//
 		
 		
 		
@@ -78,7 +77,7 @@ public class OfflineExercises {
 		
 
 		
-	}
+	//}
 
 	// Given a string, return true if it ends in "dev". Ignore Case
 
@@ -87,29 +86,29 @@ public class OfflineExercises {
 	// endsDev("everoyonehatesdevforreal") → false
 	// endsDev("devisnotcool") → false
 
-	public boolean endsDev(String input"ihatedev","wehatDev","everoynehatesdevforreal","devisnotcool" ;{
-		int endDev = 0;
+	//public boolean endsDev(String input"ihatedev","wehatDev","everoynehatesdevforreal","devisnotcool" ;{
+//		int endDev = 0;
 		boolean ihatedev = true;
-		
-		while ("iendDev") {
-			System.out.println("Ihatedev");
-		}
-		return false;
+//		
+//		while ("iendDev") {
+	//		System.out.println("Ihatedev");
+	//	}
+	//	return false;
 	
-	int inDev = 0;
-	boolean notinDev = true;
+//	int inDev = 0;
+	//boolean notinDev = true;
+//
+//	while (inDev) {
 
-	while (inDev) {
-
-		if ("ThatnotDev");
-	System.out.println("Another dev");
-	InDev++;
+	//	if ("ThatnotDev");
+//	System.out.println("Another dev");
+//	InDev++;
 	
-	}
+//	/}
 	
 	
-
-	System.out.println(�ihatedev","wehatedev","devisnotcool","
+//
+	//System.out.println(�ihatedev","wehatedev","devisnotcool","
 	// Given a string, return the length of the largest "block" in the string.
 	// A block is a run of adjacent chars that are the same.
 	//
@@ -119,19 +118,17 @@ public class OfflineExercises {
 
 			
 			
-	public int superBlock(String input) {
-		Char [] array = beleive.split ("hoopplla")
-				For (int 2 = superBlock; 
-				
+	//public int superBlock(String input) {
+	
 
 			
 			
-		}
-		return -1;
+	//	}
+	//	return -1;
 		
 
-	}
-	}
+	//}
+	//}
 	
 	//given a string - return the number of times "am" appears in the String ignoring case -
 	// BUT ONLY WHEN the word "am" appears without being followed or proceeded by other letters
@@ -140,19 +137,19 @@ public class OfflineExercises {
 	//amISearch("I am in Amsterdam am I?") → 2
 	//amISearch("I have been in Amsterdam") → 0
 
-	public int amISearch(String arg1) {
-		public int "Amsterdam";
-	Amaterdam = a+1;
-		time = a+2;
-		place = a+0;
-		System.print.outln("Amsterdam")
+	//public int amISearch(String arg1) {
+		//public int "Amsterdam";
+	//Amaterdam = a+1;
+	//	time = a+2;
+	//	place = a+0;
+	//	System.print.outln("Amsterdam")
 		
-		return 0;
+	//	return 0;
 		
 		
-	}
+	//}
 		
-	}
+	//}
 	
 	//given a number 
 	// if this number is divisible by 3 return "fizz"
@@ -163,9 +160,9 @@ public class OfflineExercises {
 	//fizzBuzz(10) → "buzz"
 	//fizzBuzz(15) → "fizzbuzz"
 	
-	public String fizzBuzz(int arg1) {
-		public three divide by five; 
-		num1 +num2= 10;
+//	public String fizzBuzz(int arg1) {
+//		public three divide by five; 
+//		num1 +num2= 10;
 		
 		
 				
@@ -175,10 +172,10 @@ public class OfflineExercises {
 	
 		
 		
-	}
+	//}
 
 		
-	}
+	//}
 	
 	//Given a string split the string into the individual numbers present
 	//then add each digit of each number to get a final value for each number
@@ -194,22 +191,22 @@ public class OfflineExercises {
 	//largest("15 72 80 164") → 11
 	//largest("555 72 86 45 10") → 15
 	
-	public int largest(String arg1) {
-		public int integer = "10";
-		public int = "9";
-		public int= "14";
-		return 0; 
+//	public int largest(String arg1) {
+//		public int integer = "10";
+//		public int = "9";
+//		public int= "14";
+	//	return 0; 
 		
 		
 	
 			
 	
 	
-	return 0;
+	//return 0;
 		
 	}
 	
 	
-}
-}
+//}
+//}
 
